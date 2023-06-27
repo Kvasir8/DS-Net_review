@@ -1,6 +1,6 @@
 DATA_CONFIG:
     DATASET_NAME: SemanticKitti
-    DATASET_PATH: ./data
+    DATASET_PATH: /usr/stud/hank/storage/group/dataset_mirrors/01_incoming/SemanticKitti/ # defualt: ./data
     NCLASS: 20
     RETURN_REF: True
     RETURN_INS_ID: True
